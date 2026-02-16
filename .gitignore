@@ -1,0 +1,19 @@
+# Node / JS
+node_modules/
+npm-debug.log*
+
+# C++ build files
+*.o
+*.exe
+/build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE / OS junk
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
